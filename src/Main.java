@@ -1,5 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        int tiсket = 3698;
+        int x = 20;
+
+        int bonus = tiсket / x;
+
+        System.out.println(bonus);
     }
 }
