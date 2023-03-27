@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
 
         int tiсket = 3698;
-        int x = 20;
+        int oneMile = 20;
 
-        int bonus = tiсket / x;
+        int bonus = tiсket / oneMile;
 
         System.out.println(bonus);
     }
